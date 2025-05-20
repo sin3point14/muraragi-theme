@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=muraragi
+Description=An Araragi Plymouth theme.
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/muraragi
+ScriptFile=/usr/share/plymouth/themes/muraragi/muraragi.script
